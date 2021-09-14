@@ -1,5 +1,7 @@
 # Haskell Dockerfile Linter
 
+[Rules](#anchor_rules)
+
 [![Build Status][github-actions-img]][github-actions]
 [![GPL-3 licensed][license-img]][license]
 [![GitHub release][release-img]][release]
@@ -351,6 +353,7 @@ write it. See our [Integration][] docs.
 - [Editor Integrations][]
 - [Version Control Integrations][]
 
+<a name="anchor_rules"></a>
 ## Rules
 
 An incomplete list of implemented rules. Click on the error code to get more
